@@ -1,0 +1,8 @@
+one chicken
+two cows
+three dogs
+four cats
+five foxes
+six mices
+seven lions
+eight tigers
